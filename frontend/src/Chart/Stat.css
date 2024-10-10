@@ -1,0 +1,9 @@
+h1{
+    border-style: double;
+    background-color: rgb(184, 114, 11);
+}
+h2{
+    color: aquamarine;
+    border-style: dotted;
+    border-color: black;
+}
